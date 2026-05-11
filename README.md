@@ -1,4 +1,4 @@
-# LingoAI Translator
+# Voice-translator (LingoAI)
 
 A fully functional, modern, responsive AI-powered language translation website.
 
